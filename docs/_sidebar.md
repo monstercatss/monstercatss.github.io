@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [首页](/)
-* [指南](/guide "The greatest guide in the world")
+* [我是SB](/guide "The greatest guide in the world")
 
 
 * CORECLR
@@ -10,6 +10,10 @@
     * [JIT]()
 * [正则表达式](/coreclr)
 
+* [linux](/linux)
+
 
 * [JENKINS](/jenkins)
+
+* [书](/book)
   
